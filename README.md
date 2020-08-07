@@ -1,4 +1,8 @@
-### Parrot Web Socket 0.0.1
+![React](https://lh3.googleusercontent.com/g7p10RSxdGTTzvezZMgGyfNIH2eh7JLQqHPTB-gsRehX26eD9JICKKNISWQFzMEwoBro3vt2u_w=w128-h128-e365)
+![Node](https://ih1.redbubble.net/image.109336634.1604/flat,128x128,075,t-pad,128x128,f8f8f8.u1.jpg)
+![react-native-gifted-chat](https://vestibular.uninassau.edu.br/PSWidgets/chaticon.png)
+
+# Parrot Web Socket 0.0.1
 
 ##### Aplicativo jogo infantil papagaio.
 
